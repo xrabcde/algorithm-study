@@ -8,7 +8,7 @@ def solution(phone_book):
 
     return True
 
-# zip과 startswith 활용한 코드
+# zip과 startswith 활용한 풀이
 def solution(phone_book):
     phone_book.sort()
 
