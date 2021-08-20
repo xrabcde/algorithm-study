@@ -27,7 +27,7 @@
 |------|---|---|
 |[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|🌊|[✅](py/sort1.py)|
 |[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)|🌊🌊||
-|H-Index|🌊🌊||
+|[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)|🌊🌊|[✅](py/sort3.py)|
 
 </div>
 </details>
