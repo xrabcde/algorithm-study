@@ -53,7 +53,7 @@
 |문제|난이도|풀이|
 |------|---|:---:|
 |[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|🌊|[✅](py/exhaustiveSearch1.py)|
-|소수 찾기|🌊🌊||
+|[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)|🌊🌊|[✅](py/exhaustiveSearch2.py)|
 |[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|🌊🌊|[✅](py/exhaustiveSearch3.py)|
 
 </div>
