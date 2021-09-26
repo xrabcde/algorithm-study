@@ -16,6 +16,8 @@
 |[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|🌊|[✅](py/70128.py)|
 |[소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|🌊|[✅](py/12977.py)|
 |[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|🌊|[✅](py/1845.py)|
+|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|🌊|[✅](py/12901.py)|
+|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|🌊|[✅](py/86051.py)|
 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|🌊🌊|[✅](py/2019_kakao_hash1.py)|
 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|🌊🌊|[✅](py/2019_kakao_candidatekey.py)|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|🌊🌊|[✅](py/hash2.py)|
