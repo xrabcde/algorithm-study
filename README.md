@@ -18,6 +18,7 @@
 |[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|🌊|[✅](py/1845.py)|
 |[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)|🌊|[✅](py/12901.py)|
 |[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051)|🌊|[✅](py/86051.py)|
+|[수박수박수박수박수박수](https://programmers.co.kr/learn/courses/30/lessons/12922)|🌊|[✅](py/12922.py)|
 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|🌊🌊|[✅](py/2019_kakao_hash1.py)|
 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|🌊🌊|[✅](py/2019_kakao_candidatekey.py)|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|🌊🌊|[✅](py/hash2.py)|
