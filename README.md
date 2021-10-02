@@ -22,6 +22,7 @@
 |[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|🌊|[✅](py/12925.py)|
 |[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|🌊|[✅](py/12919.py)|
 |[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|🌊|[✅](py/12917.py)|
+|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|🌊|[✅](py/12947.py)|
 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|🌊🌊|[✅](py/2019_kakao_hash1.py)|
 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|🌊🌊|[✅](py/2019_kakao_candidatekey.py)|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|🌊🌊|[✅](py/hash2.py)|
