@@ -24,6 +24,7 @@
 |[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|🌊|[✅](py/12917.py)|
 |[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947)|🌊|[✅](py/12947.py)|
 |[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|🌊|[✅](py/12928.py)|
+|[자릿수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|🌊|[✅](py/12931.py)|
 |[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)|🌊🌊|[✅](py/2019_kakao_hash1.py)|
 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|🌊🌊|[✅](py/2019_kakao_candidatekey.py)|
 |[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)|🌊🌊|[✅](py/hash2.py)|
