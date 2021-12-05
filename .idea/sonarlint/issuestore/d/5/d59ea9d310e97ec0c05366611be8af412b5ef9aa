@@ -1,0 +1,5 @@
+
+hpython:S1542"PRename function "isInUnique" to match the regular expression ^[a-z_][a-z0-9_]*$.(®æœè
+qpython:S117"ZRename this local variable "eachValue" to match the regular expression ^[_a-z][a-z0-9_]*$.(’ìë
+lpython:S1542"TRename function "checkDuplicate" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÀüÉî
+vpython:S117%"ZRename this local variable "eachCombi" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨Áì‡ıÿÿÿÿ
